@@ -70,5 +70,5 @@ Segment Deep Dive:
 • Structuring end-to-end data projects
 • Business Intelligence 
 
-**Author:** [Jakub](https://github.com/jakubsmigielski)  
 **Educational portfolio project** 
+
